@@ -18,6 +18,13 @@ A Telegram chatbot that simulates conversations with an AI girlfriend named Kati
 - Novita Client for image generation
 - python-dotenv for environment management
 
+## Example Screenshots
+
+![Screenshot (5441)](https://github.com/user-attachments/assets/33495e14-57e8-42fe-a006-eb13894b8bc1)
+
+![Screenshot (5442)](https://github.com/user-attachments/assets/617bfbe5-9387-4a9f-ba4c-2301221d7ab6)
+
+
 ## Installation 🔧
 
 1. Clone the repository:
