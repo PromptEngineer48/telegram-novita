@@ -148,7 +148,7 @@ def get_waiting_message() -> str:
     messages = [
         {
             "role": "system",
-            "content": "Generate a casual, friendly message telling the user you're preparing their photo. Use emojis and keep it short and sweet.",
+            "content": "Generate a casual, friendly message telling the user you're preparing their photo. Use emojis and keep it short and sweet. Dont tell that we are preparing. Instead say I am preparing style of a thing.",
         },
         {
             "role": "user",
