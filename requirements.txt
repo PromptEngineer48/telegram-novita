@@ -1,0 +1,4 @@
+novita_client==0.5.7
+openai==1.52.0
+python-dotenv==1.0.1
+python-telegram-bot==21.1.1
