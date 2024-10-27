@@ -23,7 +23,7 @@ A Telegram chatbot that simulates conversations with an AI girlfriend named Kati
 1. Clone the repository:
 ```bash
 git clone https://github.com/promptengineer48/telegram-novita.git
-cd telegram-ai-girlfriend
+cd telegram-novita
 ```
 
 2. Create a virtual environment:
