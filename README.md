@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support 📧
 
-For support, please open an issue in the GitHub repository or contact [your-email@example.com]
+For support, please open an issue in the GitHub repository or contact [promptengineer48@example.com]
 
 ## Disclaimer ⚠️
 
